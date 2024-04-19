@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@omegion1npm/facere-ullam-excepturi-facilis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/omegion1npm/facere-ullam-excepturi-facilis.git"
   },
   "dependencies": {
+    "@omegion1npm/eligendi-harum-porro-numquam": "^1.0.0",
+    "@zibuthe7j11/rem-minus-hic-ducimus": "^1.0.0"
   }
 }
